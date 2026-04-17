@@ -1,3 +1,5 @@
+import About from "./components/about";
+import Contact from "./components/contact";
 import Header from "./components/header";
 import Home from "./components/home";
 export default function App() {
@@ -6,6 +8,8 @@ export default function App() {
     <div className="app">
       <Header />
       <Home />
+      <About />
+      <Contact />
     </div>
   );
 }

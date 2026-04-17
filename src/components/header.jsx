@@ -7,9 +7,9 @@ export default function Header() {
         RZ Sarobidy
       </h1>
       <nav className="flex gap-4">
-        <a href="home" className="text-gray-600 dark:text-gray-300 hover:text-purple-600 dark:hover:text-purple-400 transition-colors px-2">home</a>
-        <a href="about" className="text-gray-600 dark:text-gray-300 hover:text-purple-600 dark:hover:text-purple-400 transition-colors px-2">about</a>
-        <a href="contact" className="text-gray-600 dark:text-gray-300 hover:text-purple-600 dark:hover:text-purple-400 transition-colors px-2">contact</a>
+        <a href="/#home" className="text-gray-600 dark:text-gray-300 hover:text-purple-600 dark:hover:text-purple-400 transition-colors px-2">home</a>
+        <a href="/#about" className="text-gray-600 dark:text-gray-300 hover:text-purple-600 dark:hover:text-purple-400 transition-colors px-2">about</a>
+        <a href="/#contact" className="text-gray-600 dark:text-gray-300 hover:text-purple-600 dark:hover:text-purple-400 transition-colors px-2">contact</a>
       </nav>
       <button className="flex items-center gap-2 px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-300 hover:border-purple-500 hover:text-purple-500 transition-all text-sm">
         <i className="fas fa-moon"></i> Dark Mode

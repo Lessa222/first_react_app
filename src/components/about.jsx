@@ -2,7 +2,7 @@
 export default function About() {
     const name = "Sarobidy";
     const age = 22;
-    const diploma = ["Bachelor's Degree in Meteorology", "bachelor's Degree in Computer Science", "First Year Master's Degree in Data Science"];
+    const diploma = ["Bachelor's Degree in Meteorology", "Bachelor's Degree in Computer Science", "First Year Master's Degree in Data Science"];
     const college = ["Ecole Nationale d'Enseignement de l'Aéronautique et de la Météorologie (ENEAM)",
          "Centre Nationale de Télé-enseignement de Madagascar (CNTEMAD)",
         "Ecole Nationale de l'Informatique (ENI Fianarantsoa)"];

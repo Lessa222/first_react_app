@@ -110,5 +110,22 @@ code {
   background: var(--code-bg);
 }
 ul{
-  display: inline;
+  display: inline-flex;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+ul li{
+  margin: 0 10px;
+  list-style: none;
+}
+header{
+  background: grey;
+  border: none;
+  color: var(--text);
+  cursor: pointer;
+  font-size: 16px;
 }

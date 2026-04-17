@@ -3,7 +3,7 @@ import myImage from '../assets/1.jpg';
 export default function Home() {
   return (
     <div className="flex flex-1 items-center justify-center px-10 py-16 gap-16">
-      <div className="max-w-xl">
+      <div id="home" className="max-w-xl" >
         <p className="text-xl text-purple-600 dark:text-purple-400 font-medium mb-2">Hello, I am</p>
         <h1 className="text-5xl md:text-6xl font-extrabold   leading-tight mb-4">
           RAZAFINDRATSIMBA<br />Henintsoa Sarobidy

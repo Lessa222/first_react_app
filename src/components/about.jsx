@@ -7,7 +7,7 @@ export default function About() {
          "Centre Nationale de Télé-enseignement de Madagascar (CNTEMAD)",
         "Ecole Nationale de l'Informatique (ENI Fianarantsoa)"];
     return (
-        <div className="max-w-3xl mx-auto px-10 py-16">
+        <div id="about" className="max-w-3xl mx-auto px-10 py-16">
             <h1 className="text-4xl font-bold mb-6 text-center text-gray-900 ">About Me</h1>
             <p className="text-lg text-gray-600 dark:text-gray-400 mb-6 leading-relaxed text-justify">
                 I am a passionate meteorologist, software developer, and data scientist with a strong background in analyzing weather patterns and developing innovative solutions. With a deep understanding of atmospheric science and expertise in programming languages such as Python and R, I strive to create impactful applications that leverage data to improve weather forecasting and climate analysis.

@@ -1,5 +1,7 @@
-
+import { useTranslation } from 'react-i18next';
+import i18n from '../i18n';
 export default function Contact() {
+    const { t } = useTranslation();
     const handleSubmit = (e) => {
         e.preventDefault();
         alert("Form submitted!");
@@ -45,7 +47,7 @@ export default function Contact() {
         </div>
         <button
           type="submit"
-          className="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-6 rounded-lg transition-colors"
+          className="bg-gray-100 dark:bg-gray-800 hover:bg-purple-700 text-white font-bold py-2 px-6 rounded-lg transition-colors"
         >
           Send Message
         </button>

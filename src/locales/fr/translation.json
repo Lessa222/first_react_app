@@ -1,0 +1,22 @@
+{ "accueil": "Accueil",
+  "apropos": "À propos",
+  "contact": "Contact",
+"hello": "Bonjour, je suis",
+"profile": "Météorologue, développeur logiciel et data scientist",
+  "about": "À propos de moi",
+  "propos1": "Je suis un météorologue passionné, développeur logiciel et data scientist, avec une solide expérience dans l'analyse des phénomènes météorologiques et le développement de solutions innovantes. Grâce à une compréhension approfondie des sciences atmosphériques et une maîtrise des langages de programmation tels que Python et R, je m'efforce de créer des applications à fort impact qui exploitent les données pour améliorer les prévisions météorologiques et l'analyse climatique.",
+  "propos2": "Mon parcours en météorologie a commencé par une fascination pour la compréhension des complexités de l'atmosphère. Au fil des années, j'ai développé mes compétences en analyse de données, en apprentissage automatique et en développement logiciel afin de contribuer au domaine de la météorologie. Je suis déterminé à utiliser la technologie pour améliorer notre compréhension des phénomènes météorologiques et fournir des informations utiles à la prise de décision.",
+  "propos3": "Je poursuis actuellement une première année de Master en Data Science, ce qui complète mon parcours en météorologie et en développement logiciel. Cette approche interdisciplinaire me permet d'aborder des problématiques complexes à l'intersection des sciences atmosphériques et de l'analyse de données.",
+  "diplome": "Formations",
+  "degree": {
+    "first": "Première année de Master en Data Science",
+    "second": "Licence en météorologie",
+    "third": "Licence en informatique"
+  },
+  "colleges": "Établissements fréquentés",
+  "college": {
+    "first": "École Nationale d'Enseignement de l'Aéronautique et de la Météorologie (ENEAM)",
+    "second": "Centre National de Télé-enseignement de Madagascar (CNTEMAD)",
+    "third": "École Nationale d'Informatique (ENI Fianarantsoa)"
+  }
+}

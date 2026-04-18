@@ -1,0 +1,22 @@
+{"accueil": "home",
+  "apropos": "about",
+  "contact": "Contact",    
+"hello":"Hello, I am",
+"profile":"Meteorologist, software developer and data scientist",
+"about":"about Me",
+"propos1":"I am a passionate meteorologist, software developer, and data scientist with a strong background in analyzing weather patterns and developing innovative solutions. With a deep understanding of atmospheric science and expertise in programming languages such as Python and R, I strive to create impactful applications that leverage data to improve weather forecasting and climate analysis.",
+"propos2":"My journey in meteorology began with a fascination for understanding the complexities of the atmosphere. Over the years, I have honed my skills in data analysis, machine learning, and software development to contribute to the field of meteorology. I am dedicated to using technology to enhance our understanding of weather phenomena and provide valuable insights for decision-making.",
+"propos3":"I am currently pursuing a First Year Master's Degree in Data Science, which complements my background in meteorology and software development. This interdisciplinary approach allows me to tackle complex problems at the intersection of atmospheric science and data analytics.",
+"diplome":"education",
+"degree":{
+    "first":"First Year Master's Degree in Data Science",
+    "second":"Bachelor's Degree in Meteorology",
+    "third":"Bachelor's Degree in Computer Science"},
+"colleges":"colleges attended",
+"college":{
+    "first":"Ecole Nationale d'Enseignement de l'Aéronautique et de la Météorologie (ENEAM)",
+    "second":"Centre Nationale de Télé-enseignement de Madagascar (CNTEMAD)",
+    "third":"Ecole Nationale de l'Informatique (ENI Fianarantsoa)"
+}    
+}
+            

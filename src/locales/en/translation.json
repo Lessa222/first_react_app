@@ -1,4 +1,5 @@
-{"accueil": "home",
+{
+    "accueil": "home",
   "apropos": "about",
   "contact": "Contact",    
 "hello":"Hello, I am",
@@ -17,6 +18,7 @@
     "first":"Ecole Nationale d'Enseignement de l'Aéronautique et de la Météorologie (ENEAM)",
     "second":"Centre Nationale de Télé-enseignement de Madagascar (CNTEMAD)",
     "third":"Ecole Nationale de l'Informatique (ENI Fianarantsoa)"
-}    
+}  ,
+"free":"Feel free to reach out to me at any time!"  
 }
             
